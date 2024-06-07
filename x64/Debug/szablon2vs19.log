@@ -1,0 +1,72 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (szablon2vs17.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(95,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(117,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(120,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(170,25): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(172,21): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(175,22): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(184,20): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(187,20): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(192,20): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(195,20): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(257,57): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(335,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(337,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(339,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(341,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(343,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(347,44): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(350,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(354,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(334,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(336,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(338,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(340,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(342,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(346,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(349,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(351,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(360,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(362,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(364,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(359,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(361,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(363,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(375,44): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(374,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(382,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(384,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(386,43): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(381,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(383,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(385,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(428,80): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(440,80): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(447,79): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(465,64): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(465,46): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(584,86): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(590,85): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(596,86): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(605,133): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(615,85): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(621,85): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(627,86): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(639,155): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(655,85): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(661,85): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(667,86): warning C4244: "=": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(737,5): warning C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(880,32): warning C4244: "+=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(882,52): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(881,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1065,45): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1068,45): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1081,73): warning C4838: konwersja z „float” do „int” wymaga konwersji zawężającej
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1081,73): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1062,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1064,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1066,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\main.cpp(1067,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  szablon2vs19.vcxproj -> C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\x64\Debug\szablon2vs19.exe

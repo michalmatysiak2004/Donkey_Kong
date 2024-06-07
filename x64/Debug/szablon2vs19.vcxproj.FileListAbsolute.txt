@@ -1,0 +1,4 @@
+C:\Users\polsk\OneDrive\Dokumenty\template-project-2 (1)\template-project-2\x64\Debug\szablon2vs19.exe
+C:\Users\polsk\OneDrive\Pulpit\Informatyka_MichalMatysiak_198395\x64\Debug\szablon2vs19.exe
+C:\STUDIA\PP\DONKEY KONG\x64\Debug\szablon2vs19.exe
+C:\Users\polsk\OneDrive\Pulpit\STUDIA\semestr 1\PP\DONKEY KONG\x64\Debug\szablon2vs19.exe
